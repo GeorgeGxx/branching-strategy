@@ -1,13 +1,10 @@
 # Branching Strategy
 
-## `Banching Models`
-![](./img/gitops_types.gif)
+## `GitFlow` for a single DevTeam
+![](./img/new1.png)
 
-## `GitFlow` equipos de una célula a la vez
-![](./img/1.gif)
-
-## `GitFlow` más de una célula a la vez
-![](./img/2.gif)
+## `GitFlow` for more than one DevTeam in parallel
+![](./img/new2.png)
 
 ## Development Branches
 
